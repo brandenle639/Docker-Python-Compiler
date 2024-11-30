@@ -25,7 +25,7 @@ Make sure the Dockerfile and python{Version}.sh are in the same folder.
 
 # To Build the Final Python
 
-docker build -t python:{Python Version} {Path of the Docker File}
+docker build -t python:{Python Version} {Path of the Docker File} --no-cache
 
 # Some Ways to Run and Use the Python Container
 
