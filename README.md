@@ -26,3 +26,5 @@ If you need a root or sudo account either add (py) the related group or remove t
 USER py]
 
 To set gui connection on host: xhost +
+
+I don't own any of the install packages
